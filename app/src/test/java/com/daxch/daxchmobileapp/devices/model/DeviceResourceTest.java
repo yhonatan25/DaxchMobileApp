@@ -1,8 +1,8 @@
-package com.daxch.daxchmobileapp.model;
+package com.daxch.daxchmobileapp.devices.model;
 
 import org.junit.Test;
 
-import static com.daxch.daxchmobileapp.model.DeviceResource.DeviceResourceBuilder.aDeviceResource;
+import static com.daxch.daxchmobileapp.devices.model.DeviceResource.DeviceResourceBuilder.aDeviceResource;
 import static java.lang.Boolean.TRUE;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;

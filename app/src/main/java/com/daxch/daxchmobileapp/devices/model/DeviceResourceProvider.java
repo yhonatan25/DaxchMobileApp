@@ -1,4 +1,4 @@
-package com.daxch.daxchmobileapp.model;
+package com.daxch.daxchmobileapp.devices.model;
 
 import java.util.List;
 

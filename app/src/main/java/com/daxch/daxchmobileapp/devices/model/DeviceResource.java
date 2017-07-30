@@ -1,4 +1,4 @@
-package com.daxch.daxchmobileapp.model;
+package com.daxch.daxchmobileapp.devices.model;
 
 public class DeviceResource {
 

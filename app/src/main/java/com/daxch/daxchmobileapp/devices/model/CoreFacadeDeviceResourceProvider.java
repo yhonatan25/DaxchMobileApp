@@ -1,4 +1,4 @@
-package com.daxch.daxchmobileapp.model;
+package com.daxch.daxchmobileapp.devices.model;
 
 import com.daxch.api.core.CoreFacade;
 import com.daxch.api.core.devices.Device;
@@ -9,7 +9,7 @@ import java.util.List;
 import static com.daxch.daxchmobileapp.R.drawable.bedroom;
 import static com.daxch.daxchmobileapp.R.drawable.kitchen;
 import static com.daxch.daxchmobileapp.R.drawable.living_room;
-import static com.daxch.daxchmobileapp.model.DeviceResource.DeviceResourceBuilder.aDeviceResource;
+import static com.daxch.daxchmobileapp.devices.model.DeviceResource.DeviceResourceBuilder.aDeviceResource;
 
 public class CoreFacadeDeviceResourceProvider implements DeviceResourceProvider {
 

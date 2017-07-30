@@ -1,4 +1,4 @@
-package com.daxch.daxchmobileapp.core;
+package com.daxch.daxchmobileapp.devices.core;
 
 import com.daxch.api.core.devices.Device;
 import com.daxch.api.core.devices.DeviceRepository;
