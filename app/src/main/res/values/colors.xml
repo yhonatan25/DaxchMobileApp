@@ -3,7 +3,6 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-
-
-    <color name="album_title">#4c4c4c</color>
+    <color name="device_list_background">#f1f5f8</color>
+    <color name="device_name_color">#4c4c4c</color>
 </resources>
