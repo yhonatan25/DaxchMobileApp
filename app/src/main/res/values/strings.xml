@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DaxchMobileApp</string>
+    <string name="on_action">ON</string>
+    <string name="off_action">OFF</string>
+</resources>
