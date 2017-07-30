@@ -15,7 +15,7 @@ public class MockDeviceRepositoryTest {
     public void testGetAllDevicesReturnAListWithThreeItems() {
         final MockDeviceRepository mockDeviceRepository = new MockDeviceRepository();
         final List<Device> deviceList = mockDeviceRepository.getAllDevices();
-        assertThat(deviceList.size(), is(3));
+        assertThat(deviceList.size(), is(9));
     }
 
 }

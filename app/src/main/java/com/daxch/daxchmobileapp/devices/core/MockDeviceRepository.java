@@ -27,6 +27,36 @@ public class MockDeviceRepository implements DeviceRepository {
                         .name("Kitchen")
                         .type("KITCHEN")
                         .connected(FALSE)
+                        .build(),
+                aDevice("33333333")
+                        .name("Living Room")
+                        .type("LIVING_ROOM")
+                        .connected(FALSE)
+                        .build(),
+                aDevice("44444444")
+                        .name("Bedroom")
+                        .type("BEDROOM")
+                        .connected(FALSE)
+                        .build(),
+                aDevice("55555555")
+                        .name("Kitchen")
+                        .type("KITCHEN")
+                        .connected(FALSE)
+                        .build(),
+                aDevice("66666666")
+                        .name("Living Room")
+                        .type("LIVING_ROOM")
+                        .connected(FALSE)
+                        .build(),
+                aDevice("77777777")
+                        .name("Bedroom")
+                        .type("BEDROOM")
+                        .connected(FALSE)
+                        .build(),
+                aDevice("88888888")
+                        .name("Kitchen")
+                        .type("KITCHEN")
+                        .connected(FALSE)
                         .build());
     }
 }
